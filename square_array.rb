@@ -1,5 +1,5 @@
 def square_array(numbers)
-  squares == []
+  squares = []
    numbers.each do |x|
      x == x**2
      squares << x
